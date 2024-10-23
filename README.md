@@ -11,3 +11,7 @@
 | **Tools & Platform**                            |[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=Visual+Studio+Code&logoColor=White)](https://) [![PyCharm](https://img.shields.io/badge/PyCharm-blue?style=for-the-badge&logo=PyCharm&logoColor=White)](https://) [![Metasploit](https://img.shields.io/badge/Metasploit-blue?style=for-the-badge&logo=Metasploit&logoColor=White)](https://) [![Snort/Splunk](https://img.shields.io/badge/Snort%2FSplunk-blue?style=for-the-badge&logo=Snort%2FSplunk&logoColor=White)](https://) |
 | **Machine Learning / Deep Learning frameworks** |[![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=Orange)](https://) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-white?style=for-the-badge&logo=scikit-learn&logoColor=orange)](https://) [![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=PyTorch&logoColor=Orange)](https://) [![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=TensorFlow&logoColor=orange)](https://) |
 | **Certifications** |[![CSI Linux Certified Investigator](https://img.shields.io/badge/CSI_Linux_Certified_Investigator-2ea44f?style=for-the-badge)](https://) [![NSA: CAE](https://img.shields.io/badge/NSA%3A%20CAE-CD?style=for-the-badge&color=2ea44f)](https://) 
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HackerDok)](https://github.com/ryo-ma/github-profile-trophy)
