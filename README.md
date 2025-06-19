@@ -12,7 +12,7 @@
 | **Tools & Platforms**            | [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=Visual+Studio+Code&logoColor=White)](https://) [![PyCharm](https://img.shields.io/badge/PyCharm-blue?style=for-the-badge&logo=PyCharm&logoColor=White)](https://) [![Metasploit](https://img.shields.io/badge/Metasploit-blue?style=for-the-badge&logo=Metasploit&logoColor=White)](https://) [![Snort/Splunk](https://img.shields.io/badge/Snort%2FSplunk-blue?style=for-the-badge)](https://) |
 | **ML / DL Frameworks**           | [![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=Orange)](https://) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-white?style=for-the-badge&logo=scikit-learn&logoColor=orange)](https://) [![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=PyTorch&logoColor=Orange)](https://) [![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=TensorFlow&logoColor=orange)](https://) |
 | **Certifications**               | [![CSI Linux Certified Investigator](https://img.shields.io/badge/CSI_Linux_Certified_Investigator-2ea44f?style=for-the-badge)](https://) [![NSA: CAE](https://img.shields.io/badge/NSA%3A%20CAE-CD?style=for-the-badge&color=2ea44f)](https://) |
-| **Certifications in Progress**   | [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-in_progress-orange?style=for-the-badge)](https://) ![Static Badge](https://img.shields.io/badge/CCNA-green?style=for-the-badge)
+| **Certifications in Progress**   | ![Static Badge](https://img.shields.io/badge/CCNA-green?style=for-the-badge)
 |
 
 ---
